@@ -1,6 +1,6 @@
 body
 {background-color: rgb(255, 128,0);
 padding: 100px;}
-        h1 {font-size: 40px;}
+        h1 {font-size: 40px; font-weight: bold; color: white; }
         h2 {font-size: 30px;}
         ul {font-size: 24px;}
